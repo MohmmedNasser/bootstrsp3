@@ -1,0 +1,87 @@
+/* Extra Small Screen (Mobile And Tablit) */
+
+
+@media (max-width:767px)
+{
+    .navbar-inverse .navbar-nav > li > a
+    {
+        padding-top: 10px;
+        padding-bottom: 10px
+    }
+
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse
+    {
+        max-height: none
+    }
+
+    .subscribe .form-control
+    {
+        margin: 20px auto;
+        width: 234px
+
+    }
+    
+    .option-box {
+        
+        top: 470px   
+    }
+    
+}
+
+
+/* Small Screen */
+
+@media (min-width:768px) and (max-width:991px)
+{
+    #myslide .carousel-caption {
+        
+        bottom: 20px;
+        padding-bottom: 10px;
+        padding-top: 0px
+
+    }
+    
+    #myslide .carousel-indicators {
+        
+        display: none
+    }
+    
+    #myslide .carousel-caption .lead {
+        
+        font-size: 17px
+    }
+    
+    #myslide .carousel-caption h2 {
+        
+        font-size: 25px;
+        padding-bottom: 0;
+        padding-top: 0
+    }
+}
+
+
+/* Medium Screen */
+
+@media (min-width:992px) and (max-width:1199px)
+{
+   #myslide .carousel-caption {
+        
+        bottom: 27px;
+        padding-bottom: 20px;
+        padding-top: 0px;
+    }
+    
+    #myslide .carousel-indicators {
+        
+        display: none
+    }
+}
+
+
+/* Large Screen */
+
+@media (min-width:1200px)
+{
+
+}

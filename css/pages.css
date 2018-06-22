@@ -1,0 +1,140 @@
+/* Start About Us */
+
+.breadcrumb-holder {
+    
+    background-color: #F5F5F5
+}
+
+.breadcrumb {
+    
+    padding: 10px 0;
+    margin: 0
+}
+
+.about-us {
+    
+    padding: 60px 0
+}
+
+.about-us h1 {
+    
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -3px;
+    font-size: 60px
+}
+
+.about-us hr {
+    
+    width: 70%
+}
+
+.about-features{
+    
+    padding: 20px 0 70px;
+    overflow: hidden
+}
+
+.about-features h3 {
+    
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -1px
+
+}
+
+.about-features p {
+    
+    font-size: 16px;
+    margin-bottom: 30px
+}
+
+.about-ceo {
+    
+    background-color: #EEE;
+    overflow: hidden
+}
+
+
+.about-ceo .info-ceo {
+
+    padding-top: 60px;
+    margin-bottom: 40px
+}
+
+.about-ceo .info-ceo h2 {
+    
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.about-ceo .info-ceo .btn-primary {
+    
+    background-color: #333;
+    border-color: #333
+}
+
+
+
+/* End About Us */
+
+
+
+/* Start FAQ */
+
+.faq {
+    
+    padding: 40px 0
+}
+
+.faq h1 {
+    
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -3px;
+    font-size: 60px
+}
+
+.faq hr {
+    
+    width: 70%
+}
+
+.faq-question {
+    
+    padding-bottom: 40px;
+    overflow: hidden
+}
+
+.faq-question .panel-heading {
+    
+    padding: 14px
+}
+
+
+.faq-question .panel-heading a:after {
+    
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: #FFF
+}
+
+.faq-question .panel-heading a.collapsed:after {
+        
+    font-family: 'Glyphicons Halflings';
+    content: "\e080";
+    float: right;
+    color: #dfe6ff
+        
+}
+
+.faq-question .panel-heading a,
+.faq-question .panel-heading a:hover {
+    
+    text-decoration: none
+}
+
+
+/* End FAQ */
+
+
+
+ 
